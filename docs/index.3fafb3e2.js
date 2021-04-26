@@ -26297,7 +26297,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 15,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
         x: 200,
@@ -26309,7 +26309,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 16,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
         x: 212,
@@ -26321,7 +26321,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 17,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
         x: 224,
@@ -26333,7 +26333,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 18,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
         x: 236,
@@ -26345,7 +26345,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 19,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
         x: 248,
@@ -26356,7 +26356,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 20,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("line", {
         x1: 20,
@@ -26368,7 +26368,7 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 21,
-          columnNumber: 9
+          columnNumber: 5
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("text", {
         x: "20",
@@ -26380,9 +26380,16 @@ try {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 22,
-          columnNumber: 9
+          columnNumber: 5
         }
-      }, "Price history of 100 randomly selected Pokemon cards"))
+      }, "Price history of 100 randomly selected Pokemon cards"), /*#__PURE__*/_reactDefault.default.createElement("p", {
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 25,
+          columnNumber: 5
+        }
+      }, "class on April 13th"))
     );
   };
   _c = App;
