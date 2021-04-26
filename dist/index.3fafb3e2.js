@@ -26273,16 +26273,116 @@ try {
   var _react = require("react");
   var _reactDefault = _parcelHelpers.interopDefault(_react);
   var _jsxFileName = "C:\\Users\\liuan\\Documents\\UW\\INFO 474\\react-parcel-example-1\\src\\App.js";
+  const viewHeight = 500;
+  const viewWidth = 500;
   const App = () => {
     return (
       /*#__PURE__*/_reactDefault.default.createElement("svg", {
+        style: {
+          border: "1px solid lightgrey",
+          width: viewWidth,
+          height: viewHeight
+        },
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 4,
-          columnNumber: 12
+          lineNumber: 8,
+          columnNumber: 9
         }
-      }, "hello world from react")
+      }, /*#__PURE__*/_reactDefault.default.createElement("circle", {
+        cx: 20,
+        cy: 20,
+        r: "5",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 15,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 200,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230,230,230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 16,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 212,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230,230,230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 17,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 224,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230,230,230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 18,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 236,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230,230,230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 19,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 248,
+        y: 200,
+        width: 10,
+        height: 10,
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 20,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("line", {
+        x1: 20,
+        y1: viewHeight - 20,
+        x2: 150,
+        y2: 100,
+        stroke: "black",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 21,
+          columnNumber: 9
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("text", {
+        x: "20",
+        y: "35",
+        style: {
+          font: "italic 16px sans- serif"
+        },
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 22,
+          columnNumber: 9
+        }
+      }, "Price history of 100 randomly selected Pokemon cards"))
     );
   };
   _c = App;
