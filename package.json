@@ -6,12 +6,12 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url https://github.com/angelaaaaliu/react-parcel-example-1.git && rm -rf docs && mv dist docs",
-
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Angela Liu",
   "license": "MIT",
   "dependencies": {
+    "d3-fetch": "^2.0.0",
     "parcel": "*",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
